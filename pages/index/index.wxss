@@ -1,0 +1,27 @@
+
+.container{
+  height:100%;
+  color:#666;
+}
+.item{
+  font-size: 56rpx;
+  padding-top: 50rpx;
+}
+.item text{
+  display: block;
+  text-align: center;
+}
+.picture{
+ 
+  width:650rpx;
+height:650rpx;
+position:absolute;
+top:50%;
+margin-top: -300rpx;
+left:50rpx;
+}
+.picture image{
+height:100%;
+width:100%;
+
+}
